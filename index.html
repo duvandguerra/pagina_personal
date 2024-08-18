@@ -32,7 +32,7 @@
     async function guardar(json) {
         if (json.media_type === 'image') {
             const image = await fetch(json.url, {
-                'header': {
+                headers: {
                     'Access-Control-Allow-Origin': '*'
                 }
             });
