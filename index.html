@@ -31,7 +31,11 @@
 
     async function guardar(json) {
         if (json.media_type === 'image') {
-            const image = await fetch(json.url);
+            const image = await fetch(json.url, {
+                'header': {
+                    'Access-Control-Allow-Origin': '*'
+                }
+            });
 
             const imageBlog = await image.blob()
             const imageURL = URL.createObjectURL(imageBlog)
