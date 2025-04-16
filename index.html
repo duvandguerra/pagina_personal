@@ -1,51 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-
-    <button onclick="apod()">hola</button>
-</body>
-
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bienvenido</title>
+    </head>    
+    <body>
+        <h1>Página web de Duvan Quintero Guerra</h1>
+        <h2>Es lo preliminar, se realizarán cambios periodicos para su mejora :3</h2>
+    </body>
 </html>
-<script>
-    async function apod() {
-        const url = "https://api.nasa.gov/planetary/apod?api_key=f17Aod2R4X1DFOzOsb2kGDZYNfGpfR04XmBVTYs1";
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-                throw new Error(`Response status: ${response.status}`);
-            }
-
-            const json = await response.json();
-            await guardar(json);
-        } catch (error) {
-            console.error(error.message);
-        }
-    }
-
-    async function guardar(json) {
-        if (json.media_type === 'image') {
-            const image = await fetch(json.url, {
-                headers: {
-                    'Access-Control-Allow-Origin': '*'
-                }
-            });
-
-            const imageBlog = await image.blob()
-            const imageURL = URL.createObjectURL(imageBlog)
-
-            const link = document.createElement('a')
-            link.href = imageURL
-            link.download = json.title
-            document.body.appendChild(link)
-            link.click()
-            document.body.removeChild(link)
-        }
-    }
-</script>
