@@ -1017,9 +1017,6 @@ C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Deb
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\rh0bi1fy4l-tptq2av103.gz
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\3t8zmkd5pm-lfu7j35m59.gz
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\x3oqicg6jp-oyz0vx2fzb.gz
-C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\p9n3mvuadf-b6u03a1byk.gz
-C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\v8602ecvs2-t3t05een62.gz
-C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\o99o0iv4dq-0u01ha61z5.gz
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1035,3 +1032,6 @@ C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Deb
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\refint\BlazorApp1.Client.dll
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\BlazorApp1.Client.pdb
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\ref\BlazorApp1.Client.dll
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\p9n3mvuadf-zwbqta8sim.gz
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\v8602ecvs2-g9otfkpogb.gz
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\compressed\o99o0iv4dq-wkbr9p20zs.gz
