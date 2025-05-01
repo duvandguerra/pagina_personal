@@ -1,0 +1,5 @@
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\wwwroot\bootstrap\bootstrap.min.css.map
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\wwwroot\output.css
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\wwwroot\tailwind.build.css
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\wwwroot\tailwind.css
