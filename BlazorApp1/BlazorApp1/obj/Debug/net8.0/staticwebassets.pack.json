@@ -9,20 +9,16 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+      "Id": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\tailwind.build.css",
+      "PackagePath": "staticwebassets\\css\\tailwind.build.css"
     },
     {
-      "Id": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\css\\tailwind.css"
     },
     {
       "Id": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
-      "Id": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\output.css",
-      "PackagePath": "staticwebassets\\output.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

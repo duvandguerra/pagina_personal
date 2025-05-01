@@ -67,3 +67,4 @@ C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\bin\Debug\net8
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\bin\Debug\net8.0\package.json
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp1.bundle.scp.css
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1\bin\Debug\net8.0\tailwind.extension.json
