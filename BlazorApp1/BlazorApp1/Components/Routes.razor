@@ -1,8 +1,4 @@
-﻿<HeadContent>
-    <script src="https://cdn.jsdelivr.net/npm/@("@")tailwindcss/browser@("@")4"></script>
-</HeadContent>
-
-<Router AppAssembly="typeof(Program).Assembly" AdditionalAssemblies="new[] { typeof(Client._Imports).Assembly }">
+﻿<Router AppAssembly="typeof(Program).Assembly" AdditionalAssemblies="new[] { typeof(Client._Imports).Assembly }">
     <Found Context="routeData">
         <RouteView RouteData="routeData" DefaultLayout="typeof(Layout.MainLayout)" />
         <FocusOnNavigate RouteData="routeData" Selector="h1" />

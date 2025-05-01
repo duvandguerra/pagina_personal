@@ -7,3 +7,6 @@ C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Deb
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Duvan\Source\Repos\pagina_personal\BlazorApp1\BlazorApp1.Client\obj\Debug\net8.0\staticwebassets.build.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ML67qjS2EqQTSjWBnZAZBJyd4mMC02Sb0FX+pPcfKL8=",
+  "Hash": "tguG8eh+KDfFT6UWs3C7C/mC/R10GBxET13wOSoVx0w=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -8688,6 +8688,48 @@
       "OriginalItemSpec": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1.Client\\wwwroot\\appsettings.json"
     },
     {
+      "Identity": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "BlazorApp1#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ah52hatoyp",
+      "Integrity": "PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "BlazorApp1#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "ah52hatoyp",
+      "Integrity": "PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css"
+    },
+    {
       "Identity": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\app.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -8702,8 +8744,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "da95v2qkru",
-      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "Fingerprint": "lfgughmh1j",
+      "Integrity": "sUI/kbt8K2Nx9YdHdDdHKZfnhLJGl/digYLLf98DAg4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -8770,6 +8812,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\output.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "output#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6x9k6tp9zr",
+      "Integrity": "xmar4ua6bsPgEvdVx00mFKmRHpwunT9voVru19EztFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\output.css"
     }
   ],
   "Endpoints": [
@@ -36869,7 +36932,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2591"
+          "Value": "2618"
         },
         {
           "Name": "Content-Type",
@@ -36877,11 +36940,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+          "Value": "\"sUI/kbt8K2Nx9YdHdDdHKZfnhLJGl/digYLLf98DAg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 12:57:38 GMT"
+          "Value": "Thu, 01 May 2025 18:22:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36891,12 +36954,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+          "Value": "sha256-sUI/kbt8K2Nx9YdHdDdHKZfnhLJGl/digYLLf98DAg4="
         }
       ]
     },
     {
-      "Route": "app.da95v2qkru.css",
+      "Route": "app.lfgughmh1j.css",
       "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36906,7 +36969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2591"
+          "Value": "2618"
         },
         {
           "Name": "Content-Type",
@@ -36914,11 +36977,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+          "Value": "\"sUI/kbt8K2Nx9YdHdDdHKZfnhLJGl/digYLLf98DAg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 12:57:38 GMT"
+          "Value": "Thu, 01 May 2025 18:22:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36928,7 +36991,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "da95v2qkru"
+          "Value": "lfgughmh1j"
         },
         {
           "Name": "label",
@@ -36936,7 +36999,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+          "Value": "sha256-sUI/kbt8K2Nx9YdHdDdHKZfnhLJGl/digYLLf98DAg4="
         }
       ]
     },
@@ -37101,6 +37164,170 @@
         {
           "Name": "label",
           "Value": "appsettings.json"
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.ah52hatoyp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 18:27:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ah52hatoyp"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorApp1.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.ah52hatoyp.styles.css",
+      "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 18:27:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ah52hatoyp"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorApp1.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 18:27:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.styles.css",
+      "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 18:27:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PnGQsRtawepxmUX+IB72+ldc5/rONbndeKMHbmtTzPA="
         }
       ]
     },
@@ -37347,6 +37574,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "output.6x9k6tp9zr.css",
+      "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\output.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmar4ua6bsPgEvdVx00mFKmRHpwunT9voVru19EztFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 18:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6x9k6tp9zr"
+        },
+        {
+          "Name": "label",
+          "Value": "output.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmar4ua6bsPgEvdVx00mFKmRHpwunT9voVru19EztFs="
+        }
+      ]
+    },
+    {
+      "Route": "output.css",
+      "AssetFile": "C:\\Users\\Duvan\\Source\\Repos\\pagina_personal\\BlazorApp1\\BlazorApp1\\wwwroot\\output.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmar4ua6bsPgEvdVx00mFKmRHpwunT9voVru19EztFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 18:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmar4ua6bsPgEvdVx00mFKmRHpwunT9voVru19EztFs="
         }
       ]
     }
