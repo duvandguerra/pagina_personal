@@ -1,4 +1,0 @@
-wwwroot\app.css
-wwwroot\css\tailwind.build.css
-wwwroot\css\tailwind.css
-wwwroot\favicon.png
