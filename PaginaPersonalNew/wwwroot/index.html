@@ -1,18 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="es-co">
 
 <head>
     <meta charset="utf-8" />
     <title>PaginaPersonalNew</title>
     <base href="/" />
     <link href="css/app.css" rel="stylesheet" />
-    
+    <link href="./css/tailwind.css" rel="stylesheet">
+    <link href="./css/tailwind.build.css" rel="stylesheet">
     <!-- If you add any scoped CSS files, uncomment the following to load them
     <link href="PaginaPersonalNew.styles.css" rel="stylesheet" /> -->
 </head>
 
-<body>
-    <div id="app">Loading...</div>
+<body class="dark:bg-gray-800">
+    <div id="app">
+        <div class="flex h-screen w-screen items-center justify-center rounded-lg border border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+            <div class="animate-pulse rounded-full bg-blue-200 px-3 py-1 text-center text-xl font-medium leading-none text-blue-800 dark:bg-blue-900 dark:text-blue-200">Espera un momento...</div>
+        </div>
+    </div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
